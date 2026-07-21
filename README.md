@@ -1,6 +1,3 @@
-Beleza. Tudo em um bloco só para facilitar a sua vida. Sinceramente, se o próximo desenvolvedor não conseguir rodar o projeto com um `README` mastigado desse jeito, ele não deveria nem estar encostando no código.
-
-Clica no botão de copiar no canto superior direito e joga direto lá no repositório.
 
 ```markdown
 # 🎯 Radar de Diagnóstico Corporativo
